@@ -171,7 +171,93 @@
       </div>
     </section><!-- End Services Section -->
 
-    
+     <!-- ======= blog Section ======= -->
+     <section id="blog" class="blog">
+            <div class="container" data-aos="fade-up">
+                <div class="row d-flex" style="margin-top:40px; margin-bottom:60px;">
+                    <div class="col-12 col-sm-6 col-lg-6 align-items-center d-flex title-about">
+                        <div>
+                            <span>Últimas</span><a> Postagens</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="scrolling-wrapper">
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-6 col-9" >
+                            <div class="blog-style-eleven text-center col-12 mt-30"  style="padding-right: 0px; padding-left: 0px;">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
+                                        style="padding-right: 0px; padding-left: 0px; max-height:200px">
+                                </div>
+                                <div class="col-4 date-box">Data do post</div>
+                                <div class="blog-content col-10 " style="padding-bottom:15px;vertical-align: middle;">
+
+                                    <span class="blog-categoria"></span>
+                                    <h4 class="blog-name"><a href="#">Título do Post</a></h4>
+                                    <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
+                                        <span style="padding:15px">Descrição do post</span><br>
+                                    </div>
+                                    <span class="sub-title"><a href="#">Ver Mais<a> 
+                                    <i class="fas fa-arrow-right" style=" weight:50"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6 col-9" >
+                            <div class="blog-style-eleven text-center col-12 mt-30"  style="padding-right: 0px; padding-left: 0px;">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
+                                        style="padding-right: 0px; padding-left: 0px; max-height:200px">
+                                </div>
+                                <div class="col-4 date-box">Data do post</div>
+                                <div class="blog-content col-10 " style="padding-bottom:15px;vertical-align: middle;">
+
+                                    <span class="blog-categoria"></span>
+                                    <h4 class="blog-name"><a href="#">Título do Post</a></h4>
+                                    <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
+                                        <span style="padding:15px">Descrição do post</span><br>
+                                    </div>
+                                    <span class="sub-title"><a href="#">Ver Mais<a> 
+                                    <i class="fas fa-arrow-right" style=" weight:50"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6 col-9" >
+                            <div class="blog-style-eleven text-center col-12 mt-30 wow fadeIn" data-wow-duration="1s"
+                                data-wow-delay="0s" style="padding-right: 0px; padding-left: 0px;">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
+                                        style="padding-right: 0px; padding-left: 0px; max-height:200px">
+                                </div>
+                                <div class="col-4 date-box">Data do post</div>
+                                <div class="blog-content col-10 " style="padding-bottom:15px;vertical-align: middle;">
+
+                                    <span class="blog-categoria"></span>
+                                    <h4 class="blog-name"><a href="#">Título do Post</a></h4>
+                                    <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
+                                        <span style="padding:15px">Descrição do post</span><br>
+                                    </div>
+                                    <span class="sub-title"><a href="#">Ver Mais<a> 
+                                    <i class="fas fa-arrow-right" style=" weight:50"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                  
+                </div></div>
+
+
+
+
+                <div class="d-flex justify-content-center blog-btn">
+                    <center>
+                        <a href="#" class="btn-destaque ">Ver mais</a>
+                    </center>
+                </div>
+        </section><!-- End Posts Section -->
+
     
 
     
