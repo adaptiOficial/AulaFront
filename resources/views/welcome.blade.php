@@ -183,9 +183,28 @@
                 </div>
 
 
-                <div class="scrolling-wrapper">
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-6 col-9" >
+                <div class="row scrolling-wrapper">
+                        <div class="col-lg-4 col-sm-5 col-9">
+                            <div class="blog-style-eleven text-center col-12 mt-30"  style="padding-right: 0px; padding-left: 0px;">
+                                <div class="blog-image">
+                                    <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
+                                        style="padding-right: 0px; padding-left: 0px; max-height:200px">
+                                </div>
+                                <div class="col-4 date-box">Data do post</div>
+                                <div class="blog-content col-10 " style="padding-bottom:15px;vertical-align: middle;">
+
+                                    <span class="blog-categoria"></span>
+                                    <h4 class="blog-name"><a href="#">Título do Post1</a></h4>
+                                    <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
+                                        <span style="padding:15px">Descrição do post</span><br>
+                                    </div>
+                                    <span class="sub-title"><a href="#">Ver Mais</a> 
+                                    <i class="fas fa-arrow-right" style=" weight:50"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-5 col-9">
                             <div class="blog-style-eleven text-center col-12 mt-30"  style="padding-right: 0px; padding-left: 0px;">
                                 <div class="blog-image">
                                     <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
@@ -199,33 +218,13 @@
                                     <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
                                         <span style="padding:15px">Descrição do post</span><br>
                                     </div>
-                                    <span class="sub-title"><a href="#">Ver Mais<a> 
+                                    <span class="sub-title"><a href="#">Ver Mais</a> 
                                     <i class="fas fa-arrow-right" style=" weight:50"></i></span>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-sm-6 col-9" >
-                            <div class="blog-style-eleven text-center col-12 mt-30"  style="padding-right: 0px; padding-left: 0px;">
-                                <div class="blog-image">
-                                    <img class="img-fluid" src="assets/img/cta-bg.jpg" alt="blog"
-                                        style="padding-right: 0px; padding-left: 0px; max-height:200px">
-                                </div>
-                                <div class="col-4 date-box">Data do post</div>
-                                <div class="blog-content col-10 " style="padding-bottom:15px;vertical-align: middle;">
-
-                                    <span class="blog-categoria"></span>
-                                    <h4 class="blog-name"><a href="#">Título do Post</a></h4>
-                                    <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
-                                        <span style="padding:15px">Descrição do post</span><br>
-                                    </div>
-                                    <span class="sub-title"><a href="#">Ver Mais<a> 
-                                    <i class="fas fa-arrow-right" style=" weight:50"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-sm-6 col-9" >
+                        <div class="col-lg-4 col-sm-5 col-9">
                             <div class="blog-style-eleven text-center col-12 mt-30 wow fadeIn" data-wow-duration="1s"
                                 data-wow-delay="0s" style="padding-right: 0px; padding-left: 0px;">
                                 <div class="blog-image">
@@ -240,13 +239,13 @@
                                     <div class=" col-12 blog-descricao" style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px">
                                         <span style="padding:15px">Descrição do post</span><br>
                                     </div>
-                                    <span class="sub-title"><a href="#">Ver Mais<a> 
+                                    <span class="sub-title"><a href="#">Ver Mais</a> 
                                     <i class="fas fa-arrow-right" style=" weight:50"></i></span>
                                 </div>
                             </div>
                         </div>
                   
-                </div></div>
+                </div>
 
 
 
